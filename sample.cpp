@@ -4,8 +4,10 @@ int sum(int, int);
 
 int main(){
     
+    std::cout << "This is master" << std::endl;
     std::cout << "Git Traning" << std::endl;
-    std::cout << "Git Traning" << std::endl;
+
+    
     int a = 5;
     int b = 3;
     std::cout << sum(a, b) << std::endl;
